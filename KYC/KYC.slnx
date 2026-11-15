@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="src/KYC.Domain/KYC.Domain.csproj" />
+  <Project Path="src/KYC.Application/KYC.Application.csproj" />
+  <Project Path="src/KYC.Infrastructure/KYC.Infrastructure.csproj" />
+  <Project Path="src/KYC.Api/KYC.Api.csproj" />
+  <Project Path="tests/KYC.Tests/KYC.Tests.csproj" />
+</Solution>

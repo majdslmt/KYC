@@ -1,0 +1,5 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <ProjectReference Include="../KYC.Domain/KYC.Domain.csproj" />
+  </ItemGroup>
+</Project>
